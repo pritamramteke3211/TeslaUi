@@ -1,4 +1,4 @@
 1. Setting up a project using expo cli
 2. Rendering Custom Components
 3. using Props
-4. Rendering Scrollable List
+4. Rendering Scrollable List -> using FlatList

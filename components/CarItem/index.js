@@ -1,5 +1,5 @@
 import React from 'react'
-import { View, Text, ImageBackground, Dimensions } from 'react-native'
+import { View, Text, ImageBackground } from 'react-native'
 import StyledButton from '../StyledButton'
 import styles from './styles'
 
