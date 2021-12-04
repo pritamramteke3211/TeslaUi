@@ -2,3 +2,6 @@
 2. Rendering Custom Components
 3. using Props
 4. Rendering Scrollable List -> using FlatList
+5. How to add Image -> Image
+6.How to add Image as Background -> ImageBackground
+7. How to add Pressable Text -> Pressable
