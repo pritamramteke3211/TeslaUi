@@ -1,0 +1,4 @@
+1.Expo Cli installation -> npm install --global expo-cli
+2. Project Initialization - expo init TeslaClone
+3. Install yarn - npm install -g yarn
+4. Run App - npm start
